@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WooCommerce store's
-- 🌱 I’m currently learning static builders (11ty), Node Automation and C
+- 🔭 WooCommerce is where I spend most of my time.
+- 🌱 Currently I am learning static builders (11ty), Node Automation and C.
 
 <!--
 **djm56/djm56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
