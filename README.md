@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 WooCommerce is where I spend most of my time.
+- 🔭 WooCommerce is where I spend most of my time and the rest under the hood of WordPress.
 - 🌱 Currently I am learning static builders (11ty), Node Automation and C.
 
 <!--
