@@ -2,7 +2,7 @@
 
 - 🔭 WooCommerce is where I spend most of my time and the rest under the hood of WordPress.
 - 🌱 Node Automation, Oracle Cloud OCI, Ubuntu Lamp Stack, Docker and Redis.
-- 👯 Currently studying system hardening and security.
+- 👯 Currently trying to figure out what to study next.
 - 💬 Ask me about WordPress Maintenance and how I can help with WordPress.
 - ⚡ Fun fact: The Blue Bulls are the best thing since sliced bread :)
 
