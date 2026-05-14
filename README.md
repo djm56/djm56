@@ -1,22 +1,46 @@
-### Hi there 👋
+# Hi there, I'm Donovan 👋
 
-- 🔭 WooCommerce is where I spend most of my time and the rest under the hood of WordPress.
-- 🌱 Node Automation, Oracle Cloud OCI, Ubuntu Lamp Stack, Docker and Redis.
-- 👯 Currently trying to figure out what to study next.
-- 💬 Ask me about WordPress Maintenance and how I can help with WordPress.
-- ⚡ Fun fact: The Blue Bulls are the best thing since sliced bread :)
+## 🚀 Lead Full Stack Developer | WordPress & WooCommerce Specialist
 
-<!--
-**djm56/djm56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a lead developer specializing in enterprise WordPress solutions, WooCommerce optimization, and AI-augmented development workflows. I build scalable plugins, manage complex multisite architectures, and leverage cutting-edge AI tools to enhance development efficiency.
 
-Here are some ideas to get you started:
+## 💼 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **WordPress Ecosystem**: Plugin development, WooCommerce customization, multisite management with WPML
+- **AI-Augmented Development**: OpenCode agents, GitHub Copilot integration, Claude-assisted workflows
+- **DevOps & Infrastructure**: Docker containerization, Redis optimization, Ubuntu LAMP stacks, Oracle Cloud OCI
+- **Full Stack**: Next.js, PHP, MySQL, Redis Search, API design
+
+## 🛠️ Current Tech Stack
+
+**Backend**: PHP • MySQL • Redis • Node.js • Go  
+**Frontend**: JavaScript/TypeScript  
+**DevOps**: Docker • Docker Compose • Ubuntu Server • Apache/Nginx • PHP-FPM  
+**AI Tools**: OpenCode • GitHub Copilot • Claude • Ollama  
+**WordPress**: Core • WooCommerce • WPML • Plugin Architecture
+
+## 🔭 Currently Working On
+
+- Building AI-powered WordPress plugins and automation workflows
+- Exploring multi-agent orchestration systems with OpenCode
+- Advanced Redis patterns for WordPress performance optimization
+- Open-source WordPress plugins on [WordPress.org](https://profiles.wordpress.org/djm56)
+
+## 🌱 Learning & Exploring
+
+- Advanced AI agent frameworks and skill development
+- LLM fine-tuning (Qwen, Llama, GLM)
+- Cost optimization for AI/cloud services
+
+## 📫 Let's Connect
+
+- **WordPress.org**: [View my plugins](https://profiles.wordpress.org/djm56)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/donovan-maidens-154a7822/)
+
+## ⚡ Fun Fact
+
+The Blue Bulls are the best thing since sliced bread 🏉
+
+---
+
+💡 *Open to collaboration on WordPress performance optimization, AI-augmented development tools, and innovative WooCommerce solutions*
