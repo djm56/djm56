@@ -2,7 +2,7 @@
 
 ### WordPress engineering for the agent era.
 
-I've been building for the web for three decades — self-taught, still problem-first. Since 2010 I've run **[Anomalous](https://anomalous.co.za)**, a WordPress & WooCommerce shop. These days I ship plugins by day and command a crew of AI agents that write the code. The agents do the typing. I do the deciding.
+I've been building for the web for three decades — self-taught, still problem-first, the last fifteen years in WordPress. These days I ship plugins and command a crew of AI agents that write the code. The agents do the typing. I do the deciding.
 
 > Coding is syntax. Developing is a decision.
 
@@ -37,7 +37,7 @@ The rules are unbreakable: every coding step goes to Hicks, Apone reviews it imm
 
 One developer, one catalogue, one review gate. Free tier, live on WordPress.org today:
 
-- 🔓 **MSC Stealth Login** · ⏳ **MSC Post Expiry** · 📅 **MSC Scheduled Visibility** · 🕐 **MSC Last Update**
+- 🔓 **MSC Stealth Login** · ⏳ **MSC Post Expiry** · 📅 **MSC Scheduled Visibility** · 🕐 **MSC Last Updated**
 
 The pro side is in development, and I won't dress up a roadmap as a shipped feature: a multilingual integrity scanner (WPML/Polylang), a WooCommerce checkout-flow monitor, and a multilingual SEO auditor. Multilingual WordPress is my hard problem of choice — it's a systems problem, not a strings problem.
 
@@ -58,7 +58,6 @@ The pro side is in development, and I won't dress up a roadmap as a shipped feat
 - ✍️ **[maidens.co.za](https://maidens.co.za)** — my blog. Notes from real work: WordPress, plugins, and an AI agent harness in daily use.
 - 🔌 **[WordPress.org](https://profiles.wordpress.org/djm56)** — the plugins
 - 💼 **[LinkedIn](https://www.linkedin.com/in/donovan-maidens-154a7822/)**
-- 🏢 **[Anomalous](https://anomalous.co.za)** — the day job since 2010
 - 📍 Kleinmond, South Africa
 
 ---
@@ -68,3 +67,7 @@ The pro side is in development, and I won't dress up a roadmap as a shipped feat
 The Blue Bulls are the best thing since sliced bread 🏉 Ask me anyway.
 
 *(*Aliens* fans: yes, the crew is a fan homage — 20th Century Studios owns the names. I just borrowed the chain of command.)*
+
+---
+
+💡 *Open to collaboration on WordPress performance, agent workflows, WooCommerce, and tooling that keeps humans in the loop.*
