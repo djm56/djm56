@@ -21,15 +21,15 @@ I don't use one AI assistant. I run a **[chain of command](https://github.com/dj
 | 📝 **Lambert** | Documentation | *"If it isn't written down, it didn't happen."* |
 | 🔍 **Ripley** | QA verification | *"I say we check it. It's the only way to be sure."* |
 
-The rules are unbreakable: every coding step goes to Hicks, Apone reviews it immediately after, and Vasquez never appears in an initial plan — she only shows up when something has failed twice. That last rule was written after one expensive night of an agent ping-ponging between a `for` loop and a `while` loop. I paid for that lesson in tokens. A thousand orchestrator tasks later, roughly one in ten still needs Vasquez.
+The rules are unbreakable: every coding step goes to Hicks, Apone reviews it immediately after, and Vasquez never appears in an initial plan — she only shows up when something has failed twice. That last rule was written after one expensive night of an agent ping-ponging over a database query, with no limit on review rounds. I paid for that lesson in tokens. Well over a thousand tasks later, only one or two in twenty need Vasquez.
 
 ---
 
 ## 🛠️ Building in the open
 
-- 🖥️ **[kirsch](https://github.com/djm56/kirsch)** — a terminal-native coding agent in Go. Full-screen TUI, scopes itself to **one git repo** as a hard boundary (no `.env`, no keys, no `.git`), proposes small reviewable patches, keeps every session local. Tool output is data, never instructions. Named after the scientist in *Alien: Earth*. Milestones 0–2 done; the model provider is next, build-in-public.
+- 🖥️ **[kirsch](https://github.com/djm56/kirsch)** — a terminal-native coding agent in Go. Full-screen TUI, scopes itself to **one git repo** as a hard boundary (no `.env`, no keys, no `.git`), proposes small reviewable patches, keeps every session local. Tool output is data, never instructions. Named after the scientist in *Alien: Earth*. Released: [v0.1.5](https://github.com/djm56/kirsch/releases/tag/v0.1.5), 24 November 2026. Docs at [maidens.co.za/kirsch/docs](https://maidens.co.za/kirsch/docs/).
 - 🚁 **[bishop-harness](https://github.com/djm56/bishop-harness)** — the crew above, formalized. Agents propose, humans decide, missions are resumable, and every tripwire is written down before it's needed.
-- 🧠 **[bishop-memory](https://github.com/djm56/bishop-memory)** — the crew's memory. Go + Gin + SQLite FTS5, loopback-only, Markdown as source of truth. Nightly AI triage with a human review page — no agent ever changes a finding's status.
+- 🧠 **[bishop-memory](https://github.com/djm56/bishop-memory)** — the crew's memory. Go + Gin + SQLite FTS5, loopback-only, the database as the source of truth (it started as a folder of Markdown). Nightly AI triage with a human review page — no agent ever changes a finding's status.
 
 ---
 
@@ -39,7 +39,7 @@ One developer, one catalogue, one review gate. Free tier, live on WordPress.org 
 
 - 🔓 **MSC Stealth Login** · ⏳ **MSC Post Expiry** · 📅 **MSC Scheduled Visibility** · 🕐 **MSC Last Updated**
 
-The pro side is in development, and I won't dress up a roadmap as a shipped feature: a multilingual integrity scanner (WPML/Polylang), a WooCommerce checkout-flow monitor, and a multilingual SEO auditor. Multilingual WordPress is my hard problem of choice — it's a systems problem, not a strings problem.
+The pro side is in development, and I won't dress up a roadmap as a shipped feature: a WooCommerce checkout-flow monitor is next. The multilingual integrity scanner and SEO auditor (WPML/Polylang) are parked for now.
 
 ---
 
